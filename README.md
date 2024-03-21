@@ -16,10 +16,10 @@ Installing
 
 ```sh
 # Linux/macOS
-python3 -m pip install chrdb
+python3 -m pip install pychrdb
 
 # Windows
-py -3 -m pip install chrdb
+py -3 -m pip install pychrdb
 ```
 
 Usage

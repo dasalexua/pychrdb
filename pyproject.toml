@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "chrdb"
+name = "pychrdb"
 description = "Improved and easy-to-use version of builtin Python's JSON"
 readme = "README.md"
 authors = [
@@ -11,7 +11,7 @@ authors = [
 ]
 version = "1.2.0"
 requires-python = ">=3.8"
-keywords = ["chrdb", "database", "json"]
+keywords = ["chrdb", "pychrdb", "database", "json"]
 license = { text = "MIT" }
 dependencies = [
     "ujson==5.9.0"

@@ -1,6 +1,7 @@
 *.log
 *.env
 *.bat
+*.egg-info
 dist/
 build/
 test.py
