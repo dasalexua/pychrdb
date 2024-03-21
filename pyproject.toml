@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pychrdb"
-description = "Improved and easy-to-use version of builtin Python's JSON"
+description = "Improved and easy-to-use version of builtin Python's JSON."
 readme = "README.md"
 authors = [
   { name = "das Alex" }
 ]
-version = "1.2.0"
+version = "1.2.1"
 requires-python = ">=3.8"
 keywords = ["chrdb", "pychrdb", "database", "json"]
 license = { text = "MIT" }
@@ -18,4 +18,4 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/dasalexua/chrdb"
+Repository = "https://github.com/dasalexua/pychrdb"

@@ -7,6 +7,6 @@ Improved and easy-to-use version of builtin Python's JSON
 
 __title__ = "chrdb"
 __author__ = "das Alex"
-__version__ = "1.2.0"
+__version__ = "1.2.1"
 
 from .database import ChrDB
