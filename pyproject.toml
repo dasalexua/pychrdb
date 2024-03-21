@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chrdb"
+description = "Improved and easy-to-use version of builtin Python's JSON"
+readme = "README.md"
+authors = [
+  { name = "das Alex" }
+]
+version = "1.2.0"
+requires-python = ">=3.8"
+keywords = ["chrdb", "database", "json"]
+license = { text = "MIT" }
+dependencies = [
+    "ujson==5.9.0"
+]
+
+[project.urls]
+Repository = "https://github.com/dasalexua/chrdb"

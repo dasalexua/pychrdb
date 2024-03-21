@@ -1,0 +1,8 @@
+*.log
+*.env
+*.bat
+dist/
+build/
+test.py
+__pycache__/
+__pypackages__/
